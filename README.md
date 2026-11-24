@@ -57,11 +57,17 @@ ordered by shortfall.
 
 ## Where this comes from
 
-I run budget versus actual for a USD 1.1m technology programme at Illumina's
-Bengaluru centre: committed against actual across cost centres and projects,
-variance analysis, and the commentary that goes with it. The shape of the
-problem is the same one here. The subject matter is cloud spend rather than a
-programme budget, and I would need your data and a conversation to say anything
+My day job is a finance systems migration at Illumina in Bengaluru, moving us off
+IBM Planning Analytics onto OneStream. I hold the budget for it. Two cost centres,
+four projects, and a monthly argument about why a line moved.
+
+The useful part of that job is not the tracking. It is being the person who has to
+write the sentence explaining the variance, knowing somebody will act on it. You
+learn quickly that "spend was higher" is not an answer, and that a number with no
+owner attached gets discussed and then forgotten.
+
+That is what this model is trying to do for savings realisation. Same discipline,
+different subject. I would need your data and a conversation before saying anything
 real about the second.
 
 Arpita Tiwari · github.com/arpita-at
